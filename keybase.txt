@@ -1,0 +1,69 @@
+==================================================================
+https://keybase.io/qinkun
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://baoqinkun.com
+  * I am qinkun (https://keybase.io/qinkun) on keybase.
+  * I have a public key with fingerprint E36C 68CF AB1A BA56 8455  4950 2B4E 23D1 EC7B 6247
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101993e89fb3ac1b8c192aefee1b1633346276cc2482a4ae492f772f8979f627ebf0a",
+      "fingerprint": "e36c68cfab1aba56845549502b4e23d1ec7b6247",
+      "host": "keybase.io",
+      "key_id": "2b4e23d1ec7b6247",
+      "kid": "0101993e89fb3ac1b8c192aefee1b1633346276cc2482a4ae492f772f8979f627ebf0a",
+      "uid": "4e0fb6dbb037193d3125b92966d80a19",
+      "username": "qinkun"
+    },
+    "service": {
+      "hostname": "baoqinkun.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1630213133,
+  "expire_in": 157680000,
+  "prev": "c09d47729c0d81c1a8d8f854d4b42cb542a884edb03cb1723152ea6589c45d80",
+  "seqno": 3,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMInAnicrVJbbExRFJ1BS8erbTyCqPSm0YrBPee+x1uaECqIiRbVcc6557Z3Znrv
+7cydKtofmgoiiEeTRuLxI/OjGgkqgmpTikSikaARqaaS+fD4ERWCc4s/n87Pztl7
+rbX32tk9k8f6An56fM6yo7UvHP/jrjMpH1o4bfJ+Dtv6Xi60n4vR0UDjOk26kZip
+cyGOBzzQNIGqmoEFRABWCdAgogalAANZEARRhopMCBRViERERQ0aigINVVM0g5Uo
+NnjEBTnDtKppwkmYlstkqSATWSUGwgBhJMmqKEmiJvEQixQKOqBEwTIUFUassZMe
+gw2HUZIuNm2WY5/I6Hj/wP/nuVOjciLlDSzrGPOCAjRBFwCUsAY1WdZVHgHNAyZp
+wkK1lKHrTCuWsrimIMdy9Sah3lo9H3/qGNm/IYuJXcuoTsJ2bWLHWanGdZ2Qx3T3
+Oh50D8WRPyIRbFo62yIj1NNE0rQtLgQYkrimp8pM8RAIQBCCHG1wzASNmB5CUmSV
+Z89rQ+uZJOE1XWRWNcLrKiAAqbpqqJKoi1iEBEsiRKoqUp15JRgoUAASpEiWVI2I
+ErPLebbqLJsLsU4uqmaSSbPaQm4qQbmm+/cqx/n8AV921hjvunyBnNy/N3epYoKv
+83z3hxmtI5mTRY12ZGm8ef7azeufh2e9XF2Yf7v50KvDwdnLq8j7vJ6Yf1a8uexG
+0cUd/dN3Qrkr9+vLC+Gs3VXd3OdxP/sO9b6eGi5oeNB3mT9RceDaw3RNJrC9ic/p
+fPfp4KZUy9Pwt1azMFr8cfhHb9RZodxtuz7vSJVTF1/UH02vXvKo7dRWs3vL5Tdb
+rijHepLn5GeFenTf4Imy8ZmiBX3OpIr20g0dJ1udRYNDA1Zpedvbym29bsmX05fW
+oKunGs/Oufm8JM9f2p59pmHVtXRHemK+Hp9SuXvMzJF1xYHPBUtGVj1pWTnt0Zfs
+pzsCUsfQnvKhjcXf52Z23Rm+NZD/C74mN44=
+=GtkL
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/qinkun
+
+==================================================================
+
